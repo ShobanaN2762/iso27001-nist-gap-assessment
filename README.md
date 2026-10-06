@@ -18,6 +18,6 @@ The engagement evaluated enterprise cloud infrastructure and security controls a
 iso27001-nist-gap-assessment/
 ├── README.md                          <-- Portfolio homepage & executive dashboard
 ├── 01_Gap_Assessment_and_SoA_Matrix.xlsx <-- 13-column evaluation sheet + dynamic Excel dashboard
-├── 01_Company_Context_and_Scope.docx  <-- Document 1: Company Profile, Scoping & Audit Methodology
+├── 01_Company_Context_and_Scope.pdf  <-- Document 1: Company Profile, Scoping & Audit Methodology
 ├── 02_Statement_of_Applicability.pdf  <-- Formal executive-signed ISO 27001 Annex A SoA
 └── 03_Executive_Gap_Analysis_Report.pdf <-- Board-level GRC gap analysis & 30-60-90 day roadmap
