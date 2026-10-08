@@ -6,7 +6,7 @@
 [![Compliance Score: 50.0%](https://img.shields.io/badge/Compliance%20Score-50.0%25-yellow.svg)](#-executive-compliance-dashboard)
 
 ## 📌 Executive Overview
-This repository contains an enterprise-level **Information Security Gap Assessment**, **Statement of Applicability (SoA)**, and **30-60-90 Day Risk Remediation Strategy** for **PaySecure Cloud Services**—a cloud-native SaaS fintech platform operating on AWS and Kubernetes (EKS).
+This repository contains an enterprise-level **Information Security Gap Assessment**, **Statement of Applicability (SoA)**, and **30-60-90 Day Risk Remediation Strategy** for **VortexPe Cloud Services**—a cloud-native SaaS fintech platform operating on AWS and Kubernetes (EKS).
 
 The engagement evaluated enterprise cloud infrastructure and security controls against **ISO/IEC 27001:2022 (Annex A)**, **NIST CSF 2.0**, and the Indian **Digital Personal Data Protection (DPDP) Act 2023**.
 
